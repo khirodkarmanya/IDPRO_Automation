@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="IDPRO_SIGNUP_Suite">
+  <test thread-count="5" name="IDPRO_SIGNUP_Test">
+    <classes>
+      <class name="idpro.module.signUp.SignUp_TestCase"/>
+    </classes>
+  </test> <!-- IDPRO_SIGNUP_Test -->
+</suite> <!-- IDPRO_SIGNUP_Suite -->
